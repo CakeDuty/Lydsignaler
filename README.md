@@ -1,5 +1,5 @@
 # Lydsignaler
-Overview
+# Overview
 This project implements an auto wah effect using Low-Frequency Oscillator (LFO) modulation in MATLAB. The wah effect, traditionally controlled by a foot pedal, is automated here, enhancing usability in digital music production.
 
 # Features
