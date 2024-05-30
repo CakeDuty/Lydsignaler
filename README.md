@@ -4,7 +4,9 @@ This project implements an auto wah effect using Low-Frequency Oscillator (LFO) 
 
 # Features
 Automated Wah Effect: Modulates the audio signal amplitude to create a wah effect.
+
 LFO Control: Uses an LFO to automate the modulation.
+
 Audio Normalization: Ensures the output signal remains within acceptable levels.
 
 # Installation
